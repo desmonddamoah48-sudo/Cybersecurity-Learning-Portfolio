@@ -29,8 +29,19 @@ The laboratory environment consists of a Windows host machine running Oracle Vir
 
 ### 📸 Screenshots and Evidence
 
-Screenshots demonstrating the VirtualBox environment and Kali Linux desktop will be provided in the `Screenshots` folder.
+The following screenshots provide visual evidence of the completed laboratory setup.
 
+#### 1. VirtualBox Manager
+
+Shows the Kali Linux 2026.2 virtual machine registered in Oracle VirtualBox Manager.
+
+![VirtualBox Manager](virtualbox-manager.jpg)
+
+#### 2. Kali Linux Desktop Environment
+
+Shows Kali Linux 2026.2 successfully booted and running inside Oracle VirtualBox.
+
+![Kali Linux Desktop](kali-linux-desktop.jpg)
 ### ✅ Project Outcome
 
 Successfully launched the Kali Linux 2026.2 virtual machine through Oracle VirtualBox and accessed its desktop environment.
